@@ -18,7 +18,7 @@
 
   .docs-branding-icon
   {
-    filter: brightness(0) saturate(100%) invert(8%) sepia(12%) saturate(2641%) hue-rotate(204deg) brightness(100%) contrast(91%);
+    filter: hue-rotate(204deg) brightness(0.5%) contrast(91%);
   }
 
   .kix-appview-editor
